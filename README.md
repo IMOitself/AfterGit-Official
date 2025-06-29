@@ -3,7 +3,10 @@
 **simplest git client that uses Termux's API**
 
 > [!NOTE]
-> this is the Gradle version of [AfterGit](/storage/emulated/0/AppProjects/AfterGit) which is an AIDE project.
+>  this version is for Android Studio. See [AfterGit](https://github.com/IMOitself/AfterGit) for AIDE version.
+
+<br>
+
 
 ## Download
 
